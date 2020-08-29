@@ -1,0 +1,7 @@
+.product-image{    
+    width:100px;
+    height:100%;
+    margin:0;
+    border-radius:5px;
+    box-shadow:2px 2px 4px rgba(0,0,0,0.4);
+}
