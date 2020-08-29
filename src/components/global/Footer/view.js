@@ -7,7 +7,7 @@ export default function(props){
   return (
       <Fragment>
         <footer>
-            footer
+            Vidal De Los Santos <sup>&trade;</sup> 2020
         </footer>
       </Fragment>
   );
